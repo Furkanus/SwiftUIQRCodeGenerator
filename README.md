@@ -1,0 +1,2 @@
+# SwiftUIQRCodeGenerator
+SwiftUI QR Generator
